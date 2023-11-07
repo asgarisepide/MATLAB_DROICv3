@@ -1,3 +1,4 @@
+%plotting GUI output
 clear;
 Vrefp = 1.2;
 Vrefn=0.195;
